@@ -1,2 +1,2 @@
 # Snake-games
-https://shuvajitdn.github.io/Snake-games/
+https://shuvajit-snake-games.netlify.app/
